@@ -64,6 +64,14 @@ It combines the best ideas from **PagerDuty**, **Jira Service Management**, and 
 
 ---
 
+### **Future Roadmaps**
+-Role-based dashboards (Admin / Engineer / Security)
+-Integrate Slack API for alerts
+-Export reports as PDF
+-Add Prometheus/Grafana mock metrics
+-Deploy via Docker + Render / Railway
+
+
 ## 🗃️ System Architecture
 
 ```mermaid
